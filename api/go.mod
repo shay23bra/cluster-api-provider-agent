@@ -8,7 +8,7 @@ require (
 	github.com/openshift/api v0.0.0-20240830023148-b7d0481c9094
 	k8s.io/apimachinery v0.34.2
 	k8s.io/client-go v0.34.2
-	sigs.k8s.io/cluster-api v1.11.0
+	sigs.k8s.io/cluster-api v1.12.1
 	sigs.k8s.io/controller-runtime v0.22.4
 )
 
@@ -38,7 +38,6 @@ require (
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
 	github.com/onsi/gomega v1.38.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/stretchr/testify v1.11.1 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
@@ -59,4 +58,4 @@ require (
 	sigs.k8s.io/yaml v1.6.0 // indirect
 )
 
-replace sigs.k8s.io/cluster-api => sigs.k8s.io/cluster-api v1.11.0
+replace sigs.k8s.io/cluster-api => sigs.k8s.io/cluster-api v1.12.1

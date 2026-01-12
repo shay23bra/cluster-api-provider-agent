@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.24.2
 
 require (
-	github.com/openshift/api v0.0.0-20240830023148-b7d0481c9094
+	github.com/openshift/api v0.0.0-20260112003852-92b92bfb5020
 	k8s.io/apimachinery v0.34.2
 	k8s.io/client-go v0.34.2
 	sigs.k8s.io/cluster-api v1.11.0
